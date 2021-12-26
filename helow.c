@@ -1,5 +1,5 @@
 #include <stdio.h>
-int a()
+int main()
 {
 	printf ("hellow \n");
 	printf ("motto \n");
